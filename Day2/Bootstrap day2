@@ -1,0 +1,87 @@
+<div class="row">
+    <div class="col" style="background-color:red; border: 1px solid;">
+        col
+    </div>
+    <div class="col" style="background-color:aqua; border: 1px solid;">
+        col
+    </div>
+</div>
+<div class="row">
+    <div class="col-6" style="background-color: blue; border: 2px solid;">
+    col-6        
+    </div>
+    <div class="col-6" style="background-color: yellow; border: 2px solid">
+        col-6
+    </div>
+</div>
+
+
+<br>
+<div class="row">
+    <div class="col-lg-3 col-md-4 col-sm-6" style="background-color: pink; border: 1px solid">
+        col-lg-3 col-md-4 col-sm-6
+    </div>
+      <div class="col-lg-3 col-md-4 col-sm-6" style="background-color: pink; border: 1px solid">
+        col-lg-3 col-md-4 col-sm-6
+    </div>
+     <div class="col-lg-3 col-md-4 col-sm-6" style="background-color: pink; border: 1px solid">
+        col-lg-3 col-md-4 col-sm-6
+    </div>
+     <div class="col-lg-3 col-md-4 col-sm-6" style="background-color: pink; border: 1px solid">
+        col-lg-3 col-md-4 col-sm-6
+    </div>
+</div>
+
+
+<br>
+<div class="row">
+    <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: red; border: 1px solid;">
+        col-lg-2 col-md-3 col-sm-12
+    </div>
+    <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: red; border: 1px solid;">
+        col-lg-2 col-md-3 col-sm-12
+    </div>
+    <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: red; border: 1px solid;">
+        col-lg-2 col-md-3 col-sm-12
+    </div>
+    <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: red; border: 1px solid;">
+        col-lg-2 col-md-3 col-sm-12
+    </div>
+    <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: red; border: 1px solid;">
+        col-lg-2 col-md-3 col-sm-12
+    </div>
+    <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: red; border: 1px solid;">
+        col-lg-2 col-md-3 col-sm-12
+    </div>
+</div>
+
+
+/*
+there are total 12 slides availabel in a screen so we can use it to make our websites responsive
+eg: col-lg-2 means whenever screen is lagre like in case of laptops or tv there will be 6 bars (12/2 = 6)
+col-md-3 means whenever screen is medium in case of tablets there will be 4 tabs; and so on
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
